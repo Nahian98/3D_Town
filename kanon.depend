@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1668791850 source:c:\users\eon\documents\codes\graphics lab\kanon\main.cpp
+	<iostream>
+	<windows.h>
+	"GL/glut.h"
+	"Camera.h"
+	<stdio.h>
+	<math.h>
+	"GL/glut.h"
+	"Camera.h"
+	"BmpLoader.h"
+
+1661781332 c:\program files\codeblocks\mingw\include\gl\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1667665989 c:\users\eon\documents\codes\graphics lab\kanon\camera.h
+
+1619284968 c:\users\eon\documents\codes\graphics lab\kanon\bmploader.h
+	<windows.h>
+
+1619285340 source:c:\users\eon\documents\codes\graphics lab\kanon\bmploader.cpp
+	"BmpLoader.h"
+	<stdio.h>
+	<iostream>
+
